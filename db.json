@@ -43,6 +43,13 @@
       "id": 6
     }
   ],
-  "Category": [],
+  "categories": [
+    {
+      "catId": "443",
+      "catName": "Musicx",
+      "catVideos": [],
+      "id": 1
+    }
+  ],
   "History": []
 }
